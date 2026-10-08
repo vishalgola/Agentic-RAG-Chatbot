@@ -4,6 +4,15 @@ A multi-utility conversational assistant built with **LangGraph**, **Google Gemi
 
 ---
 
+## Demo
+
+![Agentic RAG Chatbot Demo UI](<img width="960" height="540" alt="Screenshot 2026-10-09 004638" src="https://github.com/user-attachments/assets/3b7f3b9b-b916-4b8a-bddf-a8c33114f536" />
+)
+
+*Chat interface with PDF upload, conversation threads and live tool-usage status.*
+
+---
+
 ## Features
 
 - **Agentic tool use**: a LangGraph state machine lets the model choose whether to answer directly or call a tool, then loop back with the result.
@@ -69,6 +78,8 @@ A multi-utility conversational assistant built with **LangGraph**, **Google Gemi
 
 ```
 Agentic_RAG_chatbot/
+├── assets/
+│   └── demo-ui.png             # Demo screenshot used in this README
 ├── langraph_rag_backend.py     # LangGraph agent, tools, RAG ingestion, checkpointing
 ├── streamlit_rag_frontend.py   # Streamlit chat UI
 ├── requirements.txt            # Python dependencies
@@ -166,4 +177,6 @@ Distributed under the MIT License. Add a `LICENSE` file to the repository, or re
 
 ## Author
 
-**Aman Prajapati**
+**Vishal Prajapati**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-prajapati93/)
