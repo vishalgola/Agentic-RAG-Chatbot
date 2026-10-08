@@ -6,8 +6,8 @@ A multi-utility conversational assistant built with **LangGraph**, **Google Gemi
 
 ## Demo
 
-![Agentic RAG Chatbot Demo UI](<img width="960" height="540" alt="Screenshot 2026-10-09 004638" src="https://github.com/user-attachments/assets/3b7f3b9b-b916-4b8a-bddf-a8c33114f536" />
-)
+<img width="960" height="540" alt="Screenshot 2026-10-09 004638" src="https://github.com/user-attachments/assets/c0701652-ab70-4293-9f05-ea382e2b5c0a" />
+
 
 *Chat interface with PDF upload, conversation threads and live tool-usage status.*
 
