@@ -13,6 +13,7 @@ A multi-utility conversational assistant built with **LangGraph**, **Google Gemi
 
 ---
 
+## Features
 
 - **Agentic tool use**: a LangGraph state machine lets the model choose whether to answer directly or call a tool, then loop back with the result.
 - **PDF question answering (RAG)**: uploaded PDFs are chunked, embedded and indexed in FAISS, scoped to the current chat thread.
