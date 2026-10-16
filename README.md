@@ -25,6 +25,7 @@ A multi-utility conversational assistant built with **LangGraph**, **Google Gemi
 
 ---
 
+## Architecture
 
 ```
             ┌──────────────┐
