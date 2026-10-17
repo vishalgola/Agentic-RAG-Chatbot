@@ -4,7 +4,6 @@ A multi-utility conversational assistant built with **LangGraph**, **Google Gemi
 
 ---
 
-## Demo
 
 <img width="960" height="540" alt="Screenshot 2026-10-09 004638" src="https://github.com/user-attachments/assets/c0701652-ab70-4293-9f05-ea382e2b5c0a" />
 
