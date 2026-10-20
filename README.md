@@ -1,4 +1,3 @@
-# Agentic RAG Chatbot
 
 A multi-utility conversational assistant built with **LangGraph**, **Google Gemini** and **Streamlit**. Upload a PDF and ask questions about it, or let the agent decide to search the web, check a stock price or do arithmetic. Each chat is a separate thread with persistent history.
 
